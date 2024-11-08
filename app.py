@@ -2,11 +2,7 @@ import streamlit as st
 import numpy as np
 import pandas as pd
 import matplotlib.pyplot as plt 
-import matplotlib.cm as cm
-from matplotlib.colors import ListedColormap
-from matplotlib import patches as mpatches
-from sklearn.model_selection import train_test_split
-from sklearn import neighbors
+
 
 # Load the dataset
 fruits = pd.read_table('fruit_data_with_colors.txt')
