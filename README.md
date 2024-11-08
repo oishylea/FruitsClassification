@@ -1,3 +1,5 @@
+  <p align="center"><img src="images/headerfruits.jpg" alt="Firebase Main Page" width="100%" /></p>
+
 # Fruits Classification 🍓🍉🍒🍑
 
 This repository contains a Jupyter Notebook for classifying different types of fruits based on various attributes. The notebook utilizes the popular Python libraries `pandas` and `matplotlib` to analyze and visualize fruit data.
